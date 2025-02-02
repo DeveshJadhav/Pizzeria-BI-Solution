@@ -45,4 +45,4 @@ Used the Table Data Import Wizard to fill tables with mock order data.
 Wrote SQL queries to generate key business insights in accordance with Clients Requirement. checkout queries here.
  
 
-3. Looker Studio Dashboard & Insights: After running queries and gathering necessary dataset. I built an interactive dashboard in Looker Studio to provide real-time visibility into business performance. Live Dashboard: view here
+3. Looker Studio Dashboard & Insights: After running queries and gathering necessary dataset. I built an interactive dashboard in Looker Studio to provide real-time visibility into business performance. Live Dashboard: view here.
