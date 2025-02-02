@@ -3,8 +3,6 @@
 ## 📌 Project Dashboard  
 📊 **[View the looker Dashboard](https://lookerstudio.google.com/reporting/5f2f4a3c-abdf-4405-aeb8-3bf99af779fb)**
 
-https://lookerstudio.google.com/reporting/5f2f4a3c-abdf-4405-aeb8-3bf99af779fb
-
 📌 Understanding the Business Problem :
 The client has opened a new takeout & delivery-only pizzeria and needs an efficient data system. The client wants Us to make relational database for his business that will allow him to capture and store all of the important information and data that the business generates this will in turn help client to monitor business performance.
 
